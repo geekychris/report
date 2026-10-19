@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Report logo" width="180">
+</p>
+
 # Repository Category Map
 
 A browsable map of repositories grouped by hierarchical category. Each entry shows the repository name, link, description, and tags so you can use this as a portfolio, planning surface, or cleanup dashboard.
